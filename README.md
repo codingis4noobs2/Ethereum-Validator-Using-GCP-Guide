@@ -13,3 +13,7 @@ For those eager to be a part of this decentralized movement by running a validat
 ## Unraveling ETH, Validators, Their Incentives, and Penalties
 
 ### What is Ethereum?
+
+Ethereum (ETH) is a decentralized, open-source blockchain platform that enables the creation and execution of smart contracts. Unlike Bitcoin, which is primarily a digital currency, Ethereum's primary feature is its ability to run decentralized applications (DApps) on its blockchain. Over time, concerns about Ethereum's scalability, security, and sustainability led to the proposal of Ethereum 2.0 (often referred to as ETH 2.0). ETH 2.0 is an upgrade to the Ethereum network that aims to address these concerns by introducing a shift from the current proof-of-work (PoW) consensus mechanism to a proof-of-stake (PoS) system, among other improvements. This transition is expected to enhance the network's efficiency, reduce its energy consumption, and increase its transaction throughput.
+
+### What is a validator
